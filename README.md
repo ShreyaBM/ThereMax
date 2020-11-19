@@ -25,4 +25,4 @@ This project simulates the working of a musical instrument, the theremin. It all
 4. For best results, play the instrument in a well-lit room with a white wall (no other red and green objects)
 
 
-Credits: cmu_112_graphics.py is written by Prof. David Kosbie (teaching professor at Carnegie Mellon University) for course 15-112
+**Credits**: cmu_112_graphics.py is written by Prof. David Kosbie (teaching professor at Carnegie Mellon University) for course 15-112
