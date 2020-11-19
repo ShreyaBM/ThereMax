@@ -13,7 +13,7 @@ This project simulates the working of a musical instrument, the theremin. It all
 5.threading
 6.cmu_112_graphics.py
 7.numpy
-8. wave
+8.wave
 ```
 
 **Shortcuts**: None
